@@ -63,6 +63,8 @@ var userAgent = navigator.userAgent.toLowerCase(),
 /**
  * Initialize All Scripts
  */
+<<
+<< << < HEAD
 $document.ready(function() {
 
     /**
